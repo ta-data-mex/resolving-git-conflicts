@@ -6,6 +6,7 @@
 
 # Why am I here
 
+<<<<<<< HEAD
 * What has brought you to Ironhack? My motivation to take new challenges
 * What knowledge/skills do you expect to learn in this bootcamp? Inshigths generation and analysis
 

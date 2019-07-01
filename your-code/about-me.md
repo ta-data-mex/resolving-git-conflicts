@@ -2,7 +2,7 @@
 
 * I'm from Colombia, Bucaramanga. Happy to be in Mexico City.
 * I do business architect and finance strategy.
-* I do have previous experience with data and technology, building a search engine for Colombian companies.
+* I do have previous experience with data and technology, building a search engine that shows the financial status of Colombian companies. It can be find on grupogia.com
 
 # Why am I here
 
@@ -13,3 +13,4 @@
 
 * Fintech and environmental matters seems to be appealing for me.
 * My career goal is environment related.
+

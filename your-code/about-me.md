@@ -1,3 +1,4 @@
+
 # Who am I
 Rodolfo
 * Where are you from?
@@ -17,4 +18,7 @@ Trabajar en datos, en la empresa actual o bien en nuevos desafios. Me gusta tamb
 * Which industry will you seek employment in? Medios digitales, Agencias digitales, 
 * What will your future role look like?  
 * What is your career goal?
+Este es el texto que no es un Lorem y lo agrego personalmente para generar conflicto
+
+
 

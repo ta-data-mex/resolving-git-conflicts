@@ -1,4 +1,3 @@
-git checkout -b lab-resolving-git-conflictsSueña el rico en su riqueza,
 que más cuidados le ofrece;
 sueña el pobre que padece
 su miseria y su pobreza;
@@ -19,3 +18,4 @@ una sombra, una ficción,
 y el mayor bien es pequeño:
 que toda la vida es sueño,
 y los sueños, sueños son.
+Hola!

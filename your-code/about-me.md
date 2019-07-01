@@ -15,3 +15,4 @@ Estoy interesado en el área de análisis cuantitativo sobre especulación finan
 urbana, seguridad o tecnología.
 Me gustaria realizar análisis especifico sobre datasets proporcionados por una empresa de mi interés
 Desarrollarme lo más posible en una empresa para después iniciar proyectos propios.
+

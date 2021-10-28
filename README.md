@@ -103,22 +103,7 @@ In your real work you don't create conflicting changes on purpose. But for the s
     Below is a template you can use to introduce yourself:
 
     ```
-    # Who am I
-
-    * Where are you from?
-    * What do you do?
-    * Do you have previous experience with technology/data?
-
-    # Why am I here
-
-    * What has brought you to Ironhack?
-    * What knowledge/skills do you expect to learn in this bootcamp?
-
-    # What will I do after the bootcamp?
-
-    * Which industry will you seek employment in?
-    * What will your future role look like?
-    * What is your career goal?
+    # Daniel Gonzalez
     ```
 
 1. Now, add the updated `your-code/about-me.md` file to git and commit and let's assume the ID of the new commit is `338cc201764793e1896744e8fd575e3c09c97a09`. Now execute `git pull origin master` and Git will report you have a conflict that prevents you from merging the branches. Your Git tree currently looks like below.

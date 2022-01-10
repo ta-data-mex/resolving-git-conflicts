@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Who am I
 
 Where you from? Im from Mexico, more specifically from Morelia.
@@ -19,3 +20,9 @@ Which indutry will you seek employment in? Maybe i like to be working in taxes
 What will your future role look like? Like a good professional, always trying to improve
 
 What is your career goal? Accept all that ironhack can offer me as a first impulse and move forward as far as i can go.
+=======
+
+
+Ut porttitor iaculis tellus bibendum euismod. 
+
+>>>>>>> 887eb6cd3023703d33edf6eaab90c8e11d1f3690

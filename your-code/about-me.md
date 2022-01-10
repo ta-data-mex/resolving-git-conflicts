@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 #Who am I
 
 Where you from? Im from Mexico, more specifically from Morelia.
@@ -23,6 +23,4 @@ What is your career goal? Accept all that ironhack can offer me as a first impul
 =======
 
 
-Ut porttitor iaculis tellus bibendum euismod. 
 
->>>>>>> 887eb6cd3023703d33edf6eaab90c8e11d1f3690

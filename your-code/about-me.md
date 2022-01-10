@@ -20,7 +20,6 @@ Which indutry will you seek employment in? Maybe i like to be working in taxes
 What will your future role look like? Like a good professional, always trying to improve
 
 What is your career goal? Accept all that ironhack can offer me as a first impulse and move forward as far as i can go.
-=======
 
 
 

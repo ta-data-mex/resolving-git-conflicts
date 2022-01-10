@@ -1,7 +1,25 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque viverra laoreet lorem et dapibus. Integer auctor dignissim egestas. Ut id purus neque. Pellentesque imperdiet lacus in libero laoreet, at tempus felis tristique. Cras fermentum erat a dui vulputate gravida. Nulla aliquet nisi interdum nulla pretium, ac vestibulum diam congue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus lacus risus, sodales vitae viverra quis, maximus ac ipsum. Sed consequat viverra mattis. Curabitur iaculis varius mollis.
 
-Ut porttitor iaculis tellus bibendum euismod. Morbi porta, ante nec tempus porta, felis mi faucibus lacus, sed tristique purus nunc sed est. Aenean pulvinar urna ut lacus interdum aliquam. Pellentesque sit amet magna accumsan, sagittis metus a, volutpat velit. Mauris vitae ex vehicula, posuere nisi sed, sagittis nunc. Ut scelerisque, mi non tristique tristique, mi enim luctus nunc, eu mattis sem quam auctor nunc. Donec lobortis tellus eget blandit ultricies. Vivamus euismod metus eget leo blandit, at malesuada magna efficitur. Praesent sodales faucibus mi, ullamcorper ultrices orci. Vivamus maximus malesuada massa, nec placerat leo feugiat vel. Nam vitae eleifend enim. Nullam interdum ipsum velit, vitae faucibus lectus blandit euismod.
+#Who am I
 
-Suspendisse ut malesuada ex. Nulla ultricies nisl et nisi rhoncus sollicitudin. Vestibulum maximus iaculis ligula, nec commodo nunc ullamcorper nec. Duis quis condimentum sapien. Cras vestibulum interdum felis eu auctor. Quisque semper, magna at dapibus faucibus, felis risus semper ligula, id aliquam lectus ligula vel nisi. In hac habitasse platea dictumst. Donec arcu sapien, suscipit ac dictum et, imperdiet id tortor. Maecenas ornare sodales interdum. Mauris dictum felis eu eros vestibulum cursus. Phasellus accumsan, turpis ut malesuada sollicitudin, augue leo venenatis ante, vel convallis tellus diam sit amet lacus. Aenean eu mauris eros. Praesent ante lacus, gravida sit amet tellus nec, laoreet ultrices lacus. Integer commodo semper vestibulum. Fusce felis massa, consectetur facilisis rutrum nec, pulvinar et nisi.
+Where you from? Im from Mexico, more specifically from Morelia.
 
-Morbi fermentum ultricies tortor, vehicula ultrices eros elementum a. Duis ornare aliquam facilisis. Proin aliquam tincidunt odio vitae dignissim. Sed malesuada lacinia massa, nec blandit urna auctor elementum. Duis auctor non tortor in consequat. Mauris id vestibulum risus. In eget erat sed lacus efficitur viverra sed eu est. Aliquam interdum consequat molestie. Aliquam metus nisi, blandit non semper ut, blandit vel leo. Cras dictum turpis erat, sed iaculis ligula facilisis dapibus. Aliquam posuere dignissim fermentum. Praesent at neque sit amet lectus ornare iaculis. Curabitur id urna quis lorem varius ultrices eu sit amet sapien. Curabitur maximus volutpat suscipit. Proin imperdiet elementum lacus a eleifend. Sed tempor lacus posuere diam vehicula iaculis.
+What do you do? I was working like civil engineer
+
+Do you have previous experience with technology/data? I have little experince with Data
+
+# Why am I here
+
+What has brought you to ironhack? I want to be able to trascend in my personal and professional future
+
+What knowledge/skills do you expect to learn in this bootcamp? I want to learn everything i can to be a good data analyst and improve professionally.
+
+#What will I do after the bootcamp?
+
+Which indutry will you seek employment in? Maybe i like to be working in taxes
+
+What will your future role look like? Like a good professional, always trying to improve
+
+What is your career goal? Accept all that ironhack can offer me as a first impulse and move forward as far as i can go.
+
+
+

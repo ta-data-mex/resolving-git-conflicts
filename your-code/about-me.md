@@ -1,2 +1,3 @@
-Mi nombre es Daniel Aguilar, tengo 27 años soy nacido en Torreon Coahuila y egrese de la UNAM; me gusta la NFL y le voy a los Steelers
+mi nombre es daniel aguilar y tengo 27 años. naci en torreon y soy ingeniero.
+
 

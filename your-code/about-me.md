@@ -1,7 +1,6 @@
-Nacien torreon y me llamo Daniel
-Soy Ingniero Goeifsico
-tengo 27 años
-soy fanatico de steelers
-  
+git
+=======
+git 
+>>>>>>> 4b1267d5ec1e3131dcaf696df4859a6212ceb28c
 
 
